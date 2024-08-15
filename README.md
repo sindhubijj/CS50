@@ -1,9 +1,9 @@
 # CS50
 Coursework Projects
 
-#Lectures
-Lecture 1: hello.py & calculator.py 
+# Lectures
+- Lecture 1: hello.py & calculator.py 
 
-#Problem Sets
+# Problem Sets
 
-#Labs
+# Labs
