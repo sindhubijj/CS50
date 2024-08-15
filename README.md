@@ -1,5 +1,4 @@
-# CS50
-Coursework Projects
+# CS50: Coursework Projects
 
 # Lectures
 - Lecture 1: hello.py & calculator.py 
