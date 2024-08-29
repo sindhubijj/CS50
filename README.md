@@ -11,5 +11,3 @@
   - **Playback Speed:** Replacing spaces with ellipses - *playback.py*
   - **Making Faces:** Converting string type emoticons to emojis - *faces.py*
   - **Tip Calculator:** Implemented two functions to replace symbols and convert between data types - *tip.py*
-
-# Labs
